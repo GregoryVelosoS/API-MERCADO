@@ -1,0 +1,988 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Gregory",
+      "email": "gregory1@gmail.com",
+      "senha": "3414"
+    },
+    {
+      "id": "2",
+      "nome": "Cristiano",
+      "email": "cristiano2@gmail.com",
+      "senha": "5976"
+    },
+    {
+      "id": "3",
+      "nome": "Maria",
+      "email": "maria3@gmail.com",
+      "senha": "8666"
+    },
+    {
+      "id": "4",
+      "nome": "João",
+      "email": "joão4@gmail.com",
+      "senha": "8909"
+    },
+    {
+      "id": "5",
+      "nome": "Ana",
+      "email": "ana5@gmail.com",
+      "senha": "9936"
+    },
+    {
+      "id": "6",
+      "nome": "Carlos",
+      "email": "carlos6@gmail.com",
+      "senha": "4338"
+    },
+    {
+      "id": "7",
+      "nome": "Fernanda",
+      "email": "fernanda7@gmail.com",
+      "senha": "6760"
+    },
+    {
+      "id": "8",
+      "nome": "Paulo",
+      "email": "paulo8@gmail.com",
+      "senha": "6992"
+    },
+    {
+      "id": "9",
+      "nome": "Mariana",
+      "email": "mariana9@gmail.com",
+      "senha": "5166"
+    },
+    {
+      "id": "10",
+      "nome": "Ricardo",
+      "email": "ricardo10@gmail.com",
+      "senha": "7364"
+    },
+    {
+      "id": "11",
+      "nome": "Sofia",
+      "email": "sofia11@gmail.com",
+      "senha": "1244"
+    },
+    {
+      "id": "12",
+      "nome": "Juliana",
+      "email": "juliana12@gmail.com",
+      "senha": "2931"
+    },
+    {
+      "id": "13",
+      "nome": "Mateus",
+      "email": "mateus13@gmail.com",
+      "senha": "6542"
+    },
+    {
+      "id": "14",
+      "nome": "Clara",
+      "email": "clara14@gmail.com",
+      "senha": "2298"
+    },
+    {
+      "id": "15",
+      "nome": "Rodrigo",
+      "email": "rodrigo15@gmail.com",
+      "senha": "8666"
+    },
+    {
+      "id": "16",
+      "nome": "Beatriz",
+      "email": "beatriz16@gmail.com",
+      "senha": "6788"
+    },
+    {
+      "id": "17",
+      "nome": "Felipe",
+      "email": "felipe17@gmail.com",
+      "senha": "8303"
+    },
+    {
+      "id": "18",
+      "nome": "Camila",
+      "email": "camila18@gmail.com",
+      "senha": "4764"
+    },
+    {
+      "id": "19",
+      "nome": "Rafael",
+      "email": "rafael19@gmail.com",
+      "senha": "5118"
+    },
+    {
+      "id": "20",
+      "nome": "Laura",
+      "email": "laura20@gmail.com",
+      "senha": "5165"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "1001",
+      "nome": "Smartwatch 1",
+      "descricao": "Descrição do produto Smartwatch número 1",
+      "categoria": "Jardinagem",
+      "preco": 2477.24,
+      "imagemUrl": "https://picsum.photos/200/300?random=1"
+    },
+    {
+      "id": "1002",
+      "nome": "Biscoito 2",
+      "descricao": "Descrição do produto Biscoito número 2",
+      "categoria": "Automotivos",
+      "preco": 2352.09,
+      "imagemUrl": "https://picsum.photos/200/300?random=2"
+    },
+    {
+      "id": "1003",
+      "nome": "Bola de Futebol 3",
+      "descricao": "Descrição do produto Bola de Futebol número 3",
+      "categoria": "Livros e Papelaria",
+      "preco": 4016.75,
+      "imagemUrl": "https://picsum.photos/200/300?random=3"
+    },
+    {
+      "id": "1004",
+      "nome": "Boneca 4",
+      "descricao": "Descrição do produto Boneca número 4",
+      "categoria": "Ferramentas",
+      "preco": 479.96,
+      "imagemUrl": "https://picsum.photos/200/300?random=4"
+    },
+    {
+      "id": "1005",
+      "nome": "Camiseta 5",
+      "descricao": "Descrição do produto Camiseta número 5",
+      "categoria": "Ferramentas",
+      "preco": 276.45,
+      "imagemUrl": "https://picsum.photos/200/300?random=5"
+    },
+    {
+      "id": "1006",
+      "nome": "Tablet 6",
+      "descricao": "Descrição do produto Tablet número 6",
+      "categoria": "Brinquedos e Jogos",
+      "preco": 1921.91,
+      "imagemUrl": "https://picsum.photos/200/300?random=6"
+    },
+    {
+      "id": "1007",
+      "nome": "Biscoito 7",
+      "descricao": "Descrição do produto Biscoito número 7",
+      "categoria": "Pet Shop",
+      "preco": 4774.86,
+      "imagemUrl": "https://picsum.photos/200/300?random=7"
+    },
+    {
+      "id": "1008",
+      "nome": "Bola de Futebol 8",
+      "descricao": "Descrição do produto Bola de Futebol número 8",
+      "categoria": "Informática",
+      "preco": 988.43,
+      "imagemUrl": "https://picsum.photos/200/300?random=8"
+    },
+    {
+      "id": "1009",
+      "nome": "Sofá 9",
+      "descricao": "Descrição do produto Sofá número 9",
+      "categoria": "Esportes e Lazer",
+      "preco": 2957.23,
+      "imagemUrl": "https://picsum.photos/200/300?random=9"
+    },
+    {
+      "id": "1010",
+      "nome": "Monitor 10",
+      "descricao": "Descrição do produto Monitor número 10",
+      "categoria": "Automotivos",
+      "preco": 4998.68,
+      "imagemUrl": "https://picsum.photos/200/300?random=10"
+    },
+    {
+      "id": "1011",
+      "nome": "Fogão 11",
+      "descricao": "Descrição do produto Fogão número 11",
+      "categoria": "Ferramentas",
+      "preco": 702.72,
+      "imagemUrl": "https://picsum.photos/200/300?random=11"
+    },
+    {
+      "id": "1012",
+      "nome": "Notebook 12",
+      "descricao": "Descrição do produto Notebook número 12",
+      "categoria": "Livros e Papelaria",
+      "preco": 3156.51,
+      "imagemUrl": "https://picsum.photos/200/300?random=12"
+    },
+    {
+      "id": "1013",
+      "nome": "Sandália 13",
+      "descricao": "Descrição do produto Sandália número 13",
+      "categoria": "Pet Shop",
+      "preco": 2440.89,
+      "imagemUrl": "https://picsum.photos/200/300?random=13"
+    },
+    {
+      "id": "1014",
+      "nome": "Liquidificador 14",
+      "descricao": "Descrição do produto Liquidificador número 14",
+      "categoria": "Moda e Vestuário",
+      "preco": 2956.5,
+      "imagemUrl": "https://picsum.photos/200/300?random=14"
+    },
+    {
+      "id": "1015",
+      "nome": "Impressora 15",
+      "descricao": "Descrição do produto Impressora número 15",
+      "categoria": "Ferramentas",
+      "preco": 4091.0,
+      "imagemUrl": "https://picsum.photos/200/300?random=15"
+    },
+    {
+      "id": "1016",
+      "nome": "Fogão 16",
+      "descricao": "Descrição do produto Fogão número 16",
+      "categoria": "Ferramentas",
+      "preco": 2934.39,
+      "imagemUrl": "https://picsum.photos/200/300?random=16"
+    },
+    {
+      "id": "1017",
+      "nome": "Fogão 17",
+      "descricao": "Descrição do produto Fogão número 17",
+      "categoria": "Livros e Papelaria",
+      "preco": 4315.93,
+      "imagemUrl": "https://picsum.photos/200/300?random=17"
+    },
+    {
+      "id": "1018",
+      "nome": "Teclado 18",
+      "descricao": "Descrição do produto Teclado número 18",
+      "categoria": "Instrumentos Musicais",
+      "preco": 502.67,
+      "imagemUrl": "https://picsum.photos/200/300?random=18"
+    },
+    {
+      "id": "1019",
+      "nome": "Sandália 19",
+      "descricao": "Descrição do produto Sandália número 19",
+      "categoria": "Móveis",
+      "preco": 1289.64,
+      "imagemUrl": "https://picsum.photos/200/300?random=19"
+    },
+    {
+      "id": "1020",
+      "nome": "Livro 20",
+      "descricao": "Descrição do produto Livro número 20",
+      "categoria": "Móveis",
+      "preco": 1339.34,
+      "imagemUrl": "https://picsum.photos/200/300?random=20"
+    },
+    {
+      "id": "1021",
+      "nome": "Liquidificador 21",
+      "descricao": "Descrição do produto Liquidificador número 21",
+      "categoria": "Alimentos e Bebidas",
+      "preco": 4624.88,
+      "imagemUrl": "https://picsum.photos/200/300?random=21"
+    },
+    {
+      "id": "1022",
+      "nome": "Calça Jeans 22",
+      "descricao": "Descrição do produto Calça Jeans número 22",
+      "categoria": "Jardinagem",
+      "preco": 2656.47,
+      "imagemUrl": "https://picsum.photos/200/300?random=22"
+    },
+    {
+      "id": "1023",
+      "nome": "Tablet 23",
+      "descricao": "Descrição do produto Tablet número 23",
+      "categoria": "Alimentos e Bebidas",
+      "preco": 4606.52,
+      "imagemUrl": "https://picsum.photos/200/300?random=23"
+    },
+    {
+      "id": "1024",
+      "nome": "Sofá 24",
+      "descricao": "Descrição do produto Sofá número 24",
+      "categoria": "Móveis",
+      "preco": 3907.44,
+      "imagemUrl": "https://picsum.photos/200/300?random=24"
+    },
+    {
+      "id": "1025",
+      "nome": "Notebook 25",
+      "descricao": "Descrição do produto Notebook número 25",
+      "categoria": "Instrumentos Musicais",
+      "preco": 2472.78,
+      "imagemUrl": "https://picsum.photos/200/300?random=25"
+    },
+    {
+      "id": "1026",
+      "nome": "Tablet 26",
+      "descricao": "Descrição do produto Tablet número 26",
+      "categoria": "Informática",
+      "preco": 1310.92,
+      "imagemUrl": "https://picsum.photos/200/300?random=26"
+    },
+    {
+      "id": "1027",
+      "nome": "Mesa 27",
+      "descricao": "Descrição do produto Mesa número 27",
+      "categoria": "Jardinagem",
+      "preco": 929.35,
+      "imagemUrl": "https://picsum.photos/200/300?random=27"
+    },
+    {
+      "id": "1028",
+      "nome": "Caderno 28",
+      "descricao": "Descrição do produto Caderno número 28",
+      "categoria": "Moda e Vestuário",
+      "preco": 1936.54,
+      "imagemUrl": "https://picsum.photos/200/300?random=28"
+    },
+    {
+      "id": "1029",
+      "nome": "Liquidificador 29",
+      "descricao": "Descrição do produto Liquidificador número 29",
+      "categoria": "Moda e Vestuário",
+      "preco": 1202.58,
+      "imagemUrl": "https://picsum.photos/200/300?random=29"
+    },
+    {
+      "id": "1030",
+      "nome": "Shampoo 30",
+      "descricao": "Descrição do produto Shampoo número 30",
+      "categoria": "Ferramentas",
+      "preco": 4345.12,
+      "imagemUrl": "https://picsum.photos/200/300?random=30"
+    },
+    {
+      "id": "1031",
+      "nome": "Mesa 31",
+      "descricao": "Descrição do produto Mesa número 31",
+      "categoria": "Saúde e Beleza",
+      "preco": 3335.8,
+      "imagemUrl": "https://picsum.photos/200/300?random=31"
+    },
+    {
+      "id": "1032",
+      "nome": "Condicionador 32",
+      "descricao": "Descrição do produto Condicionador número 32",
+      "categoria": "Brinquedos e Jogos",
+      "preco": 3225.62,
+      "imagemUrl": "https://picsum.photos/200/300?random=32"
+    },
+    {
+      "id": "1033",
+      "nome": "Perfume 33",
+      "descricao": "Descrição do produto Perfume número 33",
+      "categoria": "Brinquedos e Jogos",
+      "preco": 598.03,
+      "imagemUrl": "https://picsum.photos/200/300?random=33"
+    },
+    {
+      "id": "1034",
+      "nome": "Câmera 34",
+      "descricao": "Descrição do produto Câmera número 34",
+      "categoria": "Móveis",
+      "preco": 959.28,
+      "imagemUrl": "https://picsum.photos/200/300?random=34"
+    },
+    {
+      "id": "1035",
+      "nome": "Fogão 35",
+      "descricao": "Descrição do produto Fogão número 35",
+      "categoria": "Instrumentos Musicais",
+      "preco": 2240.57,
+      "imagemUrl": "https://picsum.photos/200/300?random=35"
+    },
+    {
+      "id": "1036",
+      "nome": "Teclado 36",
+      "descricao": "Descrição do produto Teclado número 36",
+      "categoria": "Instrumentos Musicais",
+      "preco": 3521.67,
+      "imagemUrl": "https://picsum.photos/200/300?random=36"
+    },
+    {
+      "id": "1037",
+      "nome": "Notebook 37",
+      "descricao": "Descrição do produto Notebook número 37",
+      "categoria": "Eletrônicos",
+      "preco": 4444.12,
+      "imagemUrl": "https://picsum.photos/200/300?random=37"
+    },
+    {
+      "id": "1038",
+      "nome": "Biscoito 38",
+      "descricao": "Descrição do produto Biscoito número 38",
+      "categoria": "Moda e Vestuário",
+      "preco": 3556.61,
+      "imagemUrl": "https://picsum.photos/200/300?random=38"
+    },
+    {
+      "id": "1039",
+      "nome": "Notebook 39",
+      "descricao": "Descrição do produto Notebook número 39",
+      "categoria": "Ferramentas",
+      "preco": 1974.4,
+      "imagemUrl": "https://picsum.photos/200/300?random=39"
+    },
+    {
+      "id": "1040",
+      "nome": "Protetor Solar 40",
+      "descricao": "Descrição do produto Protetor Solar número 40",
+      "categoria": "Móveis",
+      "preco": 4918.44,
+      "imagemUrl": "https://picsum.photos/200/300?random=40"
+    },
+    {
+      "id": "1041",
+      "nome": "Teclado 41",
+      "descricao": "Descrição do produto Teclado número 41",
+      "categoria": "Livros e Papelaria",
+      "preco": 1954.74,
+      "imagemUrl": "https://picsum.photos/200/300?random=41"
+    },
+    {
+      "id": "1042",
+      "nome": "Câmera 42",
+      "descricao": "Descrição do produto Câmera número 42",
+      "categoria": "Brinquedos e Jogos",
+      "preco": 2375.12,
+      "imagemUrl": "https://picsum.photos/200/300?random=42"
+    },
+    {
+      "id": "1043",
+      "nome": "Pelúcia 43",
+      "descricao": "Descrição do produto Pelúcia número 43",
+      "categoria": "Jardinagem",
+      "preco": 2362.86,
+      "imagemUrl": "https://picsum.photos/200/300?random=43"
+    },
+    {
+      "id": "1044",
+      "nome": "Tablet 44",
+      "descricao": "Descrição do produto Tablet número 44",
+      "categoria": "Informática",
+      "preco": 3264.19,
+      "imagemUrl": "https://picsum.photos/200/300?random=44"
+    },
+    {
+      "id": "1045",
+      "nome": "Bicicleta 45",
+      "descricao": "Descrição do produto Bicicleta número 45",
+      "categoria": "Casa e Decoração",
+      "preco": 632.79,
+      "imagemUrl": "https://picsum.photos/200/300?random=45"
+    },
+    {
+      "id": "1046",
+      "nome": "Mesa 46",
+      "descricao": "Descrição do produto Mesa número 46",
+      "categoria": "Móveis",
+      "preco": 3352.49,
+      "imagemUrl": "https://picsum.photos/200/300?random=46"
+    },
+    {
+      "id": "1047",
+      "nome": "Chocolate 47",
+      "descricao": "Descrição do produto Chocolate número 47",
+      "categoria": "Esportes e Lazer",
+      "preco": 3808.05,
+      "imagemUrl": "https://picsum.photos/200/300?random=47"
+    },
+    {
+      "id": "1048",
+      "nome": "Carrinho 48",
+      "descricao": "Descrição do produto Carrinho número 48",
+      "categoria": "Esportes e Lazer",
+      "preco": 3197.54,
+      "imagemUrl": "https://picsum.photos/200/300?random=48"
+    },
+    {
+      "id": "1049",
+      "nome": "Bola de Futebol 49",
+      "descricao": "Descrição do produto Bola de Futebol número 49",
+      "categoria": "Saúde e Beleza",
+      "preco": 416.73,
+      "imagemUrl": "https://picsum.photos/200/300?random=49"
+    },
+    {
+      "id": "1050",
+      "nome": "Liquidificador 50",
+      "descricao": "Descrição do produto Liquidificador número 50",
+      "categoria": "Ferramentas",
+      "preco": 4965.97,
+      "imagemUrl": "https://picsum.photos/200/300?random=50"
+    },
+    {
+      "id": "1051",
+      "nome": "Liquidificador 51",
+      "descricao": "Descrição do produto Liquidificador número 51",
+      "categoria": "Esportes e Lazer",
+      "preco": 3155.75,
+      "imagemUrl": "https://picsum.photos/200/300?random=51"
+    },
+    {
+      "id": "1052",
+      "nome": "Perfume 52",
+      "descricao": "Descrição do produto Perfume número 52",
+      "categoria": "Instrumentos Musicais",
+      "preco": 1719.98,
+      "imagemUrl": "https://picsum.photos/200/300?random=52"
+    },
+    {
+      "id": "1053",
+      "nome": "Caixa de Som 53",
+      "descricao": "Descrição do produto Caixa de Som número 53",
+      "categoria": "Instrumentos Musicais",
+      "preco": 1375.3,
+      "imagemUrl": "https://picsum.photos/200/300?random=53"
+    },
+    {
+      "id": "1054",
+      "nome": "Quebra-Cabeça 54",
+      "descricao": "Descrição do produto Quebra-Cabeça número 54",
+      "categoria": "Informática",
+      "preco": 1736.72,
+      "imagemUrl": "https://picsum.photos/200/300?random=54"
+    },
+    {
+      "id": "1055",
+      "nome": "Carrinho 55",
+      "descricao": "Descrição do produto Carrinho número 55",
+      "categoria": "Eletrônicos",
+      "preco": 1447.48,
+      "imagemUrl": "https://picsum.photos/200/300?random=55"
+    },
+    {
+      "id": "1056",
+      "nome": "Drone 56",
+      "descricao": "Descrição do produto Drone número 56",
+      "categoria": "Brinquedos e Jogos",
+      "preco": 2011.76,
+      "imagemUrl": "https://picsum.photos/200/300?random=56"
+    },
+    {
+      "id": "1057",
+      "nome": "Smartwatch 57",
+      "descricao": "Descrição do produto Smartwatch número 57",
+      "categoria": "Moda e Vestuário",
+      "preco": 4635.57,
+      "imagemUrl": "https://picsum.photos/200/300?random=57"
+    },
+    {
+      "id": "1058",
+      "nome": "Quebra-Cabeça 58",
+      "descricao": "Descrição do produto Quebra-Cabeça número 58",
+      "categoria": "Informática",
+      "preco": 1742.01,
+      "imagemUrl": "https://picsum.photos/200/300?random=58"
+    },
+    {
+      "id": "1059",
+      "nome": "Caderno 59",
+      "descricao": "Descrição do produto Caderno número 59",
+      "categoria": "Jardinagem",
+      "preco": 27.59,
+      "imagemUrl": "https://picsum.photos/200/300?random=59"
+    },
+    {
+      "id": "1060",
+      "nome": "Violão 60",
+      "descricao": "Descrição do produto Violão número 60",
+      "categoria": "Instrumentos Musicais",
+      "preco": 596.68,
+      "imagemUrl": "https://picsum.photos/200/300?random=60"
+    },
+    {
+      "id": "1061",
+      "nome": "Tablet 61",
+      "descricao": "Descrição do produto Tablet número 61",
+      "categoria": "Moda e Vestuário",
+      "preco": 2937.95,
+      "imagemUrl": "https://picsum.photos/200/300?random=61"
+    },
+    {
+      "id": "1062",
+      "nome": "Impressora 62",
+      "descricao": "Descrição do produto Impressora número 62",
+      "categoria": "Brinquedos e Jogos",
+      "preco": 1035.31,
+      "imagemUrl": "https://picsum.photos/200/300?random=62"
+    },
+    {
+      "id": "1063",
+      "nome": "Pelúcia 63",
+      "descricao": "Descrição do produto Pelúcia número 63",
+      "categoria": "Alimentos e Bebidas",
+      "preco": 4955.43,
+      "imagemUrl": "https://picsum.photos/200/300?random=63"
+    },
+    {
+      "id": "1064",
+      "nome": "Violão 64",
+      "descricao": "Descrição do produto Violão número 64",
+      "categoria": "Instrumentos Musicais",
+      "preco": 987.7,
+      "imagemUrl": "https://picsum.photos/200/300?random=64"
+    },
+    {
+      "id": "1065",
+      "nome": "Carrinho 65",
+      "descricao": "Descrição do produto Carrinho número 65",
+      "categoria": "Instrumentos Musicais",
+      "preco": 4207.67,
+      "imagemUrl": "https://picsum.photos/200/300?random=65"
+    },
+    {
+      "id": "1066",
+      "nome": "Calça Jeans 66",
+      "descricao": "Descrição do produto Calça Jeans número 66",
+      "categoria": "Instrumentos Musicais",
+      "preco": 1845.74,
+      "imagemUrl": "https://picsum.photos/200/300?random=66"
+    },
+    {
+      "id": "1067",
+      "nome": "Teclado 67",
+      "descricao": "Descrição do produto Teclado número 67",
+      "categoria": "Casa e Decoração",
+      "preco": 2919.03,
+      "imagemUrl": "https://picsum.photos/200/300?random=67"
+    },
+    {
+      "id": "1068",
+      "nome": "Mouse 68",
+      "descricao": "Descrição do produto Mouse número 68",
+      "categoria": "Automotivos",
+      "preco": 1732.03,
+      "imagemUrl": "https://picsum.photos/200/300?random=68"
+    },
+    {
+      "id": "1069",
+      "nome": "Drone 69",
+      "descricao": "Descrição do produto Drone número 69",
+      "categoria": "Livros e Papelaria",
+      "preco": 1680.32,
+      "imagemUrl": "https://picsum.photos/200/300?random=69"
+    },
+    {
+      "id": "1070",
+      "nome": "Sandália 70",
+      "descricao": "Descrição do produto Sandália número 70",
+      "categoria": "Móveis",
+      "preco": 3616.41,
+      "imagemUrl": "https://picsum.photos/200/300?random=70"
+    },
+    {
+      "id": "1071",
+      "nome": "Camiseta 71",
+      "descricao": "Descrição do produto Camiseta número 71",
+      "categoria": "Ferramentas",
+      "preco": 1752.48,
+      "imagemUrl": "https://picsum.photos/200/300?random=71"
+    },
+    {
+      "id": "1072",
+      "nome": "Sofá 72",
+      "descricao": "Descrição do produto Sofá número 72",
+      "categoria": "Instrumentos Musicais",
+      "preco": 3262.1,
+      "imagemUrl": "https://picsum.photos/200/300?random=72"
+    },
+    {
+      "id": "1073",
+      "nome": "Relógio 73",
+      "descricao": "Descrição do produto Relógio número 73",
+      "categoria": "Eletrônicos",
+      "preco": 3605.2,
+      "imagemUrl": "https://picsum.photos/200/300?random=73"
+    },
+    {
+      "id": "1074",
+      "nome": "Livro 74",
+      "descricao": "Descrição do produto Livro número 74",
+      "categoria": "Pet Shop",
+      "preco": 169.19,
+      "imagemUrl": "https://picsum.photos/200/300?random=74"
+    },
+    {
+      "id": "1075",
+      "nome": "Câmera 75",
+      "descricao": "Descrição do produto Câmera número 75",
+      "categoria": "Livros e Papelaria",
+      "preco": 389.26,
+      "imagemUrl": "https://picsum.photos/200/300?random=75"
+    },
+    {
+      "id": "1076",
+      "nome": "Guitarra 76",
+      "descricao": "Descrição do produto Guitarra número 76",
+      "categoria": "Ferramentas",
+      "preco": 3623.39,
+      "imagemUrl": "https://picsum.photos/200/300?random=76"
+    },
+    {
+      "id": "1077",
+      "nome": "Geladeira 77",
+      "descricao": "Descrição do produto Geladeira número 77",
+      "categoria": "Livros e Papelaria",
+      "preco": 4936.72,
+      "imagemUrl": "https://picsum.photos/200/300?random=77"
+    },
+    {
+      "id": "1078",
+      "nome": "Condicionador 78",
+      "descricao": "Descrição do produto Condicionador número 78",
+      "categoria": "Jardinagem",
+      "preco": 1371.98,
+      "imagemUrl": "https://picsum.photos/200/300?random=78"
+    },
+    {
+      "id": "1079",
+      "nome": "Mouse 79",
+      "descricao": "Descrição do produto Mouse número 79",
+      "categoria": "Jardinagem",
+      "preco": 4780.24,
+      "imagemUrl": "https://picsum.photos/200/300?random=79"
+    },
+    {
+      "id": "1080",
+      "nome": "Impressora 80",
+      "descricao": "Descrição do produto Impressora número 80",
+      "categoria": "Saúde e Beleza",
+      "preco": 2618.5,
+      "imagemUrl": "https://picsum.photos/200/300?random=80"
+    },
+    {
+      "id": "1081",
+      "nome": "Quebra-Cabeça 81",
+      "descricao": "Descrição do produto Quebra-Cabeça número 81",
+      "categoria": "Alimentos e Bebidas",
+      "preco": 1730.51,
+      "imagemUrl": "https://picsum.photos/200/300?random=81"
+    },
+    {
+      "id": "1082",
+      "nome": "Cadeira 82",
+      "descricao": "Descrição do produto Cadeira número 82",
+      "categoria": "Móveis",
+      "preco": 4407.61,
+      "imagemUrl": "https://picsum.photos/200/300?random=82"
+    },
+    {
+      "id": "1083",
+      "nome": "Monitor 83",
+      "descricao": "Descrição do produto Monitor número 83",
+      "categoria": "Casa e Decoração",
+      "preco": 3870.17,
+      "imagemUrl": "https://picsum.photos/200/300?random=83"
+    },
+    {
+      "id": "1084",
+      "nome": "Bola de Futebol 84",
+      "descricao": "Descrição do produto Bola de Futebol número 84",
+      "categoria": "Saúde e Beleza",
+      "preco": 255.81,
+      "imagemUrl": "https://picsum.photos/200/300?random=84"
+    },
+    {
+      "id": "1085",
+      "nome": "Cadeira 85",
+      "descricao": "Descrição do produto Cadeira número 85",
+      "categoria": "Pet Shop",
+      "preco": 1735.75,
+      "imagemUrl": "https://picsum.photos/200/300?random=85"
+    },
+    {
+      "id": "1086",
+      "nome": "Monitor 86",
+      "descricao": "Descrição do produto Monitor número 86",
+      "categoria": "Saúde e Beleza",
+      "preco": 4547.89,
+      "imagemUrl": "https://picsum.photos/200/300?random=86"
+    },
+    {
+      "id": "1087",
+      "nome": "Sandália 87",
+      "descricao": "Descrição do produto Sandália número 87",
+      "categoria": "Informática",
+      "preco": 1145.89,
+      "imagemUrl": "https://picsum.photos/200/300?random=87"
+    },
+    {
+      "id": "1088",
+      "nome": "Shampoo 88",
+      "descricao": "Descrição do produto Shampoo número 88",
+      "categoria": "Jardinagem",
+      "preco": 4762.84,
+      "imagemUrl": "https://picsum.photos/200/300?random=88"
+    },
+    {
+      "id": "1089",
+      "nome": "Perfume 89",
+      "descricao": "Descrição do produto Perfume número 89",
+      "categoria": "Livros e Papelaria",
+      "preco": 3091.56,
+      "imagemUrl": "https://picsum.photos/200/300?random=89"
+    },
+    {
+      "id": "1090",
+      "nome": "Camiseta 90",
+      "descricao": "Descrição do produto Camiseta número 90",
+      "categoria": "Automotivos",
+      "preco": 2453.6,
+      "imagemUrl": "https://picsum.photos/200/300?random=90"
+    },
+    {
+      "id": "1091",
+      "nome": "Chocolate 91",
+      "descricao": "Descrição do produto Chocolate número 91",
+      "categoria": "Casa e Decoração",
+      "preco": 3503.77,
+      "imagemUrl": "https://picsum.photos/200/300?random=91"
+    },
+    {
+      "id": "1092",
+      "nome": "Caixa de Som 92",
+      "descricao": "Descrição do produto Caixa de Som número 92",
+      "categoria": "Casa e Decoração",
+      "preco": 4511.75,
+      "imagemUrl": "https://picsum.photos/200/300?random=92"
+    },
+    {
+      "id": "1093",
+      "nome": "Óculos 93",
+      "descricao": "Descrição do produto Óculos número 93",
+      "categoria": "Saúde e Beleza",
+      "preco": 4258.22,
+      "imagemUrl": "https://picsum.photos/200/300?random=93"
+    },
+    {
+      "id": "1094",
+      "nome": "Sofá 94",
+      "descricao": "Descrição do produto Sofá número 94",
+      "categoria": "Moda e Vestuário",
+      "preco": 4720.38,
+      "imagemUrl": "https://picsum.photos/200/300?random=94"
+    },
+    {
+      "id": "1095",
+      "nome": "Impressora 95",
+      "descricao": "Descrição do produto Impressora número 95",
+      "categoria": "Informática",
+      "preco": 3007.08,
+      "imagemUrl": "https://picsum.photos/200/300?random=95"
+    },
+    {
+      "id": "1096",
+      "nome": "Pelúcia 96",
+      "descricao": "Descrição do produto Pelúcia número 96",
+      "categoria": "Moda e Vestuário",
+      "preco": 1232.92,
+      "imagemUrl": "https://picsum.photos/200/300?random=96"
+    },
+    {
+      "id": "1097",
+      "nome": "Caderno 97",
+      "descricao": "Descrição do produto Caderno número 97",
+      "categoria": "Brinquedos e Jogos",
+      "preco": 2135.56,
+      "imagemUrl": "https://picsum.photos/200/300?random=97"
+    },
+    {
+      "id": "1098",
+      "nome": "Cadeira 98",
+      "descricao": "Descrição do produto Cadeira número 98",
+      "categoria": "Esportes e Lazer",
+      "preco": 4231.97,
+      "imagemUrl": "https://picsum.photos/200/300?random=98"
+    },
+    {
+      "id": "1099",
+      "nome": "Cadeira 99",
+      "descricao": "Descrição do produto Cadeira número 99",
+      "categoria": "Instrumentos Musicais",
+      "preco": 2048.74,
+      "imagemUrl": "https://picsum.photos/200/300?random=99"
+    },
+    {
+      "id": "1100",
+      "nome": "Impressora 100",
+      "descricao": "Descrição do produto Impressora número 100",
+      "categoria": "Móveis",
+      "preco": 358.27,
+      "imagemUrl": "https://picsum.photos/200/300?random=100"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Eletrônicos"
+    },
+    {
+      "id": "2",
+      "nome": "Moda e Vestuário"
+    },
+    {
+      "id": "3",
+      "nome": "Alimentos e Bebidas"
+    },
+    {
+      "id": "4",
+      "nome": "Saúde e Beleza"
+    },
+    {
+      "id": "5",
+      "nome": "Esportes e Lazer"
+    },
+    {
+      "id": "6",
+      "nome": "Brinquedos e Jogos"
+    },
+    {
+      "id": "7",
+      "nome": "Livros e Papelaria"
+    },
+    {
+      "id": "8",
+      "nome": "Casa e Decoração"
+    },
+    {
+      "id": "9",
+      "nome": "Ferramentas"
+    },
+    {
+      "id": "10",
+      "nome": "Automotivos"
+    },
+    {
+      "id": "11",
+      "nome": "Informática"
+    },
+    {
+      "id": "12",
+      "nome": "Móveis"
+    },
+    {
+      "id": "13",
+      "nome": "Instrumentos Musicais"
+    },
+    {
+      "id": "14",
+      "nome": "Pet Shop"
+    },
+    {
+      "id": "15",
+      "nome": "Jardinagem"
+    }
+  ]
+}
